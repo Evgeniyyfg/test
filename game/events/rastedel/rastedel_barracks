@@ -1,0 +1,217 @@
+
+label alain_intro:
+    
+scene bg45 with fade
+show rowan necklace neutral at center with dissolve
+
+"Compared to some of the majestic buildings of Rastedel, like the massive codifice or the opulent palace, the guard quarters were almost disappointingly modest." 
+"Crammed into the wall of buildings that made the entrance to the northern side of the city, they had none of the splendour Rowan used to associate with Solansia’s knights."
+
+hide rowan with moveoutleft
+
+"But the building was well maintained, if noticeably undermanned. Deserted, almost. Only a single guard greeted him at the entrance, and as he traversed the large complex, he noticed the crew to be rather sparse."
+"Sparse and overworked. He had seen several people who had fallen asleep in the middle of their duties, sword and whetstone in hand, or right after it, their armour hastily discarded."
+"Someone like Andras would punish them for such negligence, but Rowan knew all too well how exhausting military duty could be. He let them get what little rest they could manage, and moved to where he was informed the guard’s captain resided." 
+"He found the door to his room opened wide. Peering in, he saw a young man sitting at the main desk. Dressed in full armour and hunched over an avalanche of papers. He shifted through them, his fingers running nervously through his hair."
+
+#show alain dejected? center
+
+"He couldn’t be older than twenty. He had a handsome face, but it was marred by the haunted look in his eyes, and marked with dark bags underneath."
+
+show rowan necklace neutral at midleft with moveinleft
+#show alain shocked at midright with moveoutright
+
+ro "Captain Alarie?"
+
+#alain determined
+
+"Instantly his head shot upwards, expression sharp and alert. When he saw Rowan alarm gave way to surprise, and soon enough, surprise was replaced by genuine joy."
+
+#alain happy
+show rowan necklace shock at midleft with dissolve
+
+alain "By Solansia’s grace, Rowan Blackwell? Here? Why-"
+
+#alain determined
+show rowan necklace happy at midleft with dissolve
+
+"He stood up rapidly. A stray sheet of paper almost went flying from the sudden movement, but the man pinned it to the table before it could escape him."
+
+#alain happy
+
+#show alain happy at center with moveinright
+
+alain "Ha ha, forgive me, you caught me by surprise."
+
+"Rowan Blackwell, you honour me – us – with your presence. You should have sent the word, I would’ve arranged for a more proper welcome! The men would love to meet the Hero of Karst in person."
+
+"The man greeted him with open arms and a firm shake of hands. The haunted look he saw just a moment ago gave way to a sparkle of confidence and a wide grin, so well crafted Rowan would swear it was genuine. "
+
+#show alain happy at midright with moveoutright
+show rowan necklace neutral at midleft with dissolve
+
+ro "And I’d love to meet them, had the circumstances been different. Tell me, how are things here? How is the guard handling the situation? "
+
+"The captain’s smile grew a little stiff, but it did not leave his face. A moment has passed, before Alain exploded into a boisterous laugh, so out of place it took Rowan every effort not to raise an eyebrow at it. "
+
+alain "Ha ha ha! But of course! With the Goddess’ blessing shining upon us, her sword in our hands and our hearts full of fiery devotion, how could we not? We are Solansia’s eyes and ears, keeping Rastedel safe from enemies within!"
+alain "You can count on the city guard, Sir Blackwell! In this darkest hour of ours, we will show the people they have a guardian and protector in us! We will not fail, no matter the obstacles!"
+
+show rowan necklace concerned at midleft with dissolve
+
+ro "That’s… A commendable attitude, Captain Alarie."
+
+show rowan necklace neutral at midleft with dissolve
+
+ro "And between one retired, experienced general and another, freshly promoted commanding officer, this is most definitely an honest and objective assessment of the situation, yes?"
+ro "And not, say, desperate bravado in face of overwhelming odds? "
+
+"Alarie’s smile had yet to falter, and Rowan was certain by now keeping it up was becoming quite painful. The captain glanced at the doors for a brief moment, as if hoping some emergency would surface unexpectedly, that might rescue him for this conversation."
+
+alain "…………………………… Why, Sir Rowan, I assure you we are most definitely doing well! Really!"
+
+ro "Really. And you most certainly do not have any issues with a certain group of outlaws, of a vaguely military-themed name, who happens to reside just north of here? "
+
+"Alain chuckled nervously, once more eyeing the door."
+
+alain "... There might be some misguided thugs who try to take advantage of the crisis for their own despicable ends."
+alain "But we’re working hard, day and night, to put an end to this menace, and with Solansia’s grace by our side, we’ll soon make short work of these scum!"
+
+ro "I do not doubt the “night” part. I’ve seen a man snoring on the table, not thirty feet from here."
+
+alain "Some of us do have to pull double shifts-"
+
+#alain neutral
+
+ro "If not triple shifts, I take it. Captain Alarie, I do not question the skill, nor the devotion of you and your men, but, again, one soldier to another:"
+ro "Given your current numbers, are you one hundred percent {b}sure{/b} you guys can deal with this?"
+
+#alain dejected
+
+alain "..."
+
+#alain smile
+
+alain "We might be a little stretched thin?"
+alain "But I understand his Royal Majesty cannot spare any more forces for the guard. Do not worry, Sir Blackwell! The men we have will be more than enough for the Northside Bannermen! Each guard is worth a dozen thugs!"
+
+"Even if his posture brimmed with confidence, Alain could not keep the subtle hint of disappointment from his voice. Despite the downright crippling losses at Asterte fields, the guard would see no reinforcements, not with Marianne’s position already being uncertain." 
+"Rowan was hoping they would be weakened enough to latch onto him at a moment’s notice, as people seemingly always did, but he wasn’t expecting the situation to be this dire."
+
+#show alain surprised
+
+guard "Captain Alarie, we have another pampered fop-"
+
+#alain relieved
+
+"A young woman in a guardsman uniform barged into the room, only to freeze upon seeing Rowan."
+
+#alain determined
+
+alain "At ease, private, at ease. Your report? "
+
+show rowan necklace shock at midleft with dissolve
+
+guard "… Sir, we caught another noble trying to flee the city. We’ve apprehended him, and escorted him to the waiting room."
+
+#alain smile
+show rowan necklace angry at midleft with dissolve
+
+alain "Well done, private! I shall deal with him at once. Take a short break, before you return to your post. You earned it."
+
+"The woman saluted, and quickly left the men alone. Rowan waited a moment, then gave Alain a long, deadpan look."
+
+#alain nervous
+
+ro "We have nobles fleeing the city."
+
+#alain smile
+
+alain "Oh no, not {i}fleeing{/i} the city, more like… Sneaking out of it?"
+
+#alain nervous
+
+ro "Prey tell the distinction?"
+
+alain "{i}Fleeing{/i} would imply they are running away from danger, whereas they are, in fact, merely temporarily departing to check on their regional holdings, which, as many of them argued before the court not so long ago, are in no less danger than the capital itself."
+alain "Though in order to combat the negative and {i}entirely false{/i} preconception that they might be, in fact, {i}fleeing{/i}, his Majesty Baron Casimir has wisely decided to impose a temporary, one time administrative fine for those of noble lineage leaving the capital, to be invested into improving our main defences."
+
+ro "Mhm. Said fine being… ?"
+
+show rowan necklace shock at midleft with dissolve
+
+"Alain scratched the back of his neck sheepishly, then whisper a sum in Rowan’s hear. The amount of zeros made his head spin."
+
+show rowan necklace neutral at midleft with dissolve
+
+ro "… A pretty steep amount for an administrative fine."
+
+alain "Some did raise that point-"
+
+ro "But perfectly reasonable amount as a bribe for one’s life."
+
+#alain neutral
+
+alain "…………… I believe his majesty insists {i}quite strongly{/i} not to call it so. "
+
+ro "Why am I not surprised. So how are you going to deal with this?"
+
+alain "I’ll go and try to talk some sense into the man. "
+
+ro "… That’s it?"
+
+alain "..."
+
+alain "One military commander to another… I will probably have to resist several attempts at bribery, likely followed by threats, ranging from physical violence to severe political repercussions."
+alain "Should it come to this, I will inform them that if they so desire, I can escort them to His Royal Majesty, so they might lodge an official complaint regarding the latest tax policies."
+alain "That tends to calm them down… At least a little. "
+
+"Nobility fleeing the city, as disgusting as it was, was of little importance to Rowan at the moment. But if it could be used to earn to Alain’s trust… "
+
+show rowan necklace happy at midleft with dissolve
+#alain shocked
+
+ro "You wouldn’t want me lending a hand? I believe at least some of them hold my opinion in some esteem."
+
+#alain smile
+
+alain "“Some” must be an understatement Sir Blackwell, especially with your recent victory over Verdoin Abbey! "
+
+show rowan necklace shock at midleft with dissolve
+
+alain "… Yet precisely for that very reason, I fear I must decline. I cannot deprive Rastedel of its most staunch defender, by busying him with… Tax evasion."
+
+if avatar.corruption < 50:
+    show rowan necklace concerned at midleft with dissolve
+    ro "(You foolish, prideful boy…)"
+    
+else:
+    show rowan necklace angry at midleft with dissolve
+    ro "(Just accept the help you deluded idiot!)"
+    
+show rowan necklace happy at midleft dissolve
+
+ro "Then at the very least let me introduce myself to the man before I leave. If he’s part of the army, then I ought to know."
+
+alain "Hm, I doubt he’ll appreciate the attention. "
+alain "… Which is probably why he should’ve paid the government issued administrative fine! Follow me, Sir Blackwell! "
+
+hide rowan with moveoutleft
+
+scene black with fade
+
+"If there is one thing Rowan had to give to the Captain, it was that the man handled his station with as much poise as it demanded of him."
+"The guards all sprung to full salute as Alain went past them. He returned them with a serious salute of his own, softened by a small smile and a handful of pleasant words he shared with each."
+
+if avatar.corruption > 60:
+    "A twinge of anger passed over Rowan at the sight of it. No matter how hard he drilled the orcs, best he ever got was disgruntled respect, and even that rarely."
+
+else:
+    "Rowan felt a pang of sadness enter his heart, one he pushed away quickly. Long ago he too had men like these, willing to follow him into fire. Now…" 
+    "All he had were orcs and a guilty conscience."
+    
+#show alain neutral
+show rowan necklace neutral at midleft with moveinleft
+
+"When they reached the waiting cell, Alain stopped for a moment. He took a deep breath, straightened his back, then strolled in with confidence and panache, like a man entering a lion’s den."
+
